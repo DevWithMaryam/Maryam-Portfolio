@@ -1,0 +1,17 @@
+{
+  "name": "simplefolio",
+  "version": "1.0.1",
+  "description": "A minimal portfolio template for Developers",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "parcel": "^2.8.3"
+  }
+}
