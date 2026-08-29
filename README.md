@@ -43,7 +43,7 @@ A practical Android expense management application.
 ## 📬 Contact
 
 - **Email:** maryamakram0602@gmail.com
-- **Portfolio:** maryam-android-dev.netlify.app
+- **Portfolio:** https://maryam-android-dev.netlify.app
 
 ---
 
