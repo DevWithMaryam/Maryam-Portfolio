@@ -18,7 +18,7 @@ Hi! I'm Maryam, an Android Developer passionate about building practical, user-f
 An Android application designed to help users improve their career growth through AI-powered guidance.
 
 - **Technologies:** Java, MVVM, Firebase Auth, Firestore, Room, Retrofit
-- **Live Demo:** Coming Soon 🚀
+- **Live Demo:**  [Appetize.io](https://appetize.io/app/b_5nduclvau56gf4glptkelvrmky)
 - **Source Code:** [GitHub](https://github.com/DevWithMaryam/Ai-Career-Assistant)
 
 ### 2. SafeHer (Women Safety App)
